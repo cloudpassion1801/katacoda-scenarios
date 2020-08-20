@@ -16,7 +16,7 @@
     "details": {
         "steps": [{
             "title": "CloudPassion OpenShift Playground",
-            "text": "tips.md"
+            "text": "step1.md"
         }],
         "intro": {
             "code": "set-env.sh",
