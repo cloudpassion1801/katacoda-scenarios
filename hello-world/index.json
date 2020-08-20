@@ -1,6 +1,6 @@
 {
     "icon": "fa-openshift",
-    "title": "Cloud Passion Playground(OpenShift 4.2)---> OC client basic commands -------->",
+    "title": "Cloud Passion Playground(OpenShift 4.2):OC client basic commands ",
     "description": "",
     "pathwayTitle": "OpenShift",
     "difficulty": "beginner",
@@ -29,11 +29,8 @@
                   {
             "title": "Deploy a template ",
             "text": "Deploy.md"
-        }
-                 
-                 
-                 
-                 ],
+        }           
+                ],
         "intro": {
             "code": "set-env.sh",
             "text": "intro.md"
