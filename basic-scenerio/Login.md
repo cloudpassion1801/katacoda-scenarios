@@ -1,10 +1,10 @@
 # Check with which user you are login . Try below command 
 
-oc whoami {{execute}}
+`oc whoami `{{execute}}
 
 # Logout from Cluster
 
-oc logout {{execute}}
+`oc logout `{{execute}}
 
 # Login as admin user via token 
 
@@ -14,19 +14,19 @@ Step 3 : Click on Display Token .
 Step 4 : Copy command and paste in Terminal and click enter to login
 
 # Get list of Projects 
-oc get projects {{execute}}
+`oc get projects `{{execute}}
 
 # Get current Project
 
-oc project {{execute}}
+`oc project `{{execute}}
 
 # Create a new Project 
 
-oc new-project demo {{execute}}
+`oc new-project demo `{{execute}}
 
 # Switch back to default project
 
-oc project default {{execute}}
+`oc project default` {{execute}}
 
 
 
