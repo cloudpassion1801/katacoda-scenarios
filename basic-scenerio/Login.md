@@ -20,13 +20,7 @@ Step 4 : Copy command and paste in Terminal and click enter to login
 
 `oc project `{{execute}}
 
-# Create a new Project 
 
-`oc new-project demo `{{execute}}
-
-# Switch back to default project
-
-`oc project default` {{execute}}
 
 
 
